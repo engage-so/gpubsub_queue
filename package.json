@@ -1,0 +1,23 @@
+{
+  "name": "gpubsub_queue",
+  "version": "1.0.0",
+  "description": "Haraka Google Pub/Sub Plugin",
+  "main": "gpubsub_queue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engage-so/gpubsub_queue.git"
+  },
+  "keywords": [
+    "haraka",
+    "pub/sub"
+  ],
+  "author": "Opeyemi Obembe (@kehers)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/engage-so/gpubsub_queue/issues"
+  },
+  "homepage": "https://github.com/engage-so/gpubsub_queue#readme"
+}
